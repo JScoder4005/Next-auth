@@ -459,8 +459,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💬 Discord: [Join our community](https://discord.gg/your-invite)
+- 📧 Email: [itsmeeleven.1@gmail.com](mailto:your-email@example.com)
 - 🐛 Issues: [GitHub Issues](https://github.com/JScoder4005/Next-auth/issues)
 - 📖 Docs: [Clerk Documentation](https://clerk.com/docs)
 
